@@ -20,12 +20,10 @@ Projeto de automação End-to-End desenvolvido com Cypress para validação func
 - Mochawesome Reports
 - GitHub Actions (futuro)
 
+
 ### 🔗 Repositório
 
-👉 **Dashboard Admin QA Automation**
-
-https://github.com/NatanGauna/dashboard-admin-cypress-automation
-
+➡️ **[Dashboard Admin QA Automation](https://github.com/NatanGauna/dashboard-admin-cypress-automation)**
 ---
 
 ### Principais resultados
