@@ -36,7 +36,7 @@ Suíte de automação **End-to-End** desenvolvida com **Cypress** para validaç�
 
 <p align="center">
 
-<img src="docs/images/dashboard-demo.gif" width="900"/>
+<img src="docs/images/teste-admin.gif" width="900"/>
 
 </p>
 
@@ -81,8 +81,7 @@ Suíte de automação **End-to-End** desenvolvida com **Cypress** para validaç�
 
 **GitHub**
 
-https://github.com/NatanGauna/dashboard-admin-cypress-automation
-
+[![Ver Repositório](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NatanGauna/dashboard-admin-cypress-automation)
 ---
 
 # 💰 Financial Diagnostic Automation
