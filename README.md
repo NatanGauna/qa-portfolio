@@ -42,7 +42,7 @@ Ao final de cada execução, a suíte gera automaticamente um relatório executi
 - Decisão da release
 - Resumo dos módulos validados
 
-Exemplo:
+### Relatório gerado após uma execução real
 
 ## 📸 Demonstração
 
