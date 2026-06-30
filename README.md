@@ -51,6 +51,8 @@ Ao final de cada execução, a suíte gera automaticamente um relatório executi
 <img src="https://raw.githubusercontent.com/NatanGauna/dashboard-admin-cypress-automation/main/docs/images/dashboard-admin-report.png" width="900">
 </p>
 
+
+Este relatório é gerado automaticamente ao final de cada execução da suíte, consolidando os resultados em um formato voltado para QA, Tech Leads e gestores.
 ---
 
 ## ✨ Principais resultados
