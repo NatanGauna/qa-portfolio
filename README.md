@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Natan Gauna
 
-### QA Engineer | Testes Web • APIs • Automação
-
+Analista de QA | Testes Web • APIs • Automação
 <p align="left">
 
 <img src="https://img.shields.io/badge/Cypress-E2E-69D3A7?style=for-the-badge&logo=cypress" />
