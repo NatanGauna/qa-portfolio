@@ -2,25 +2,31 @@
 
 ### QA Engineer | Testes Web • APIs • Automação
 
-Atualmente atuo com **Qualidade de Software**, desenvolvendo testes manuais e automatizados para aplicações Web e Mobile.
+<p align="left">
 
-Meu foco é garantir entregas confiáveis através de:
+<img src="https://img.shields.io/badge/Cypress-E2E-69D3A7?style=for-the-badge&logo=cypress" />
 
-- ✅ Testes Funcionais
-- ✅ Testes Exploratórios
-- ✅ Testes de APIs REST
-- ✅ Automação End-to-End
-- ✅ Validação de regras de negócio
-- ✅ Comparação entre Interface e API
-- ✅ Prevenção de regressões
+<img src="https://img.shields.io/badge/Playwright-Python-45BA63?style=for-the-badge&logo=playwright" />
+
+<img src="https://img.shields.io/badge/Postman-API-F76935?style=for-the-badge&logo=postman" />
+
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=for-the-badge&logo=mongodb" />
+
+<img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git" />
+
+</p>
 
 ---
 
-# 🚀 Projetos
+Atualmente atuo com **Qualidade de Software**, desenvolvendo testes manuais e automatizados para aplicações Web e Mobile, com foco em confiabilidade, validação de regras de negócio e prevenção de regressões.
 
-# Dashboard Admin QA Automation
+## 🚀 Projetos
 
-> Suíte de automação End-to-End desenvolvida com **Cypress** para validar um Dashboard Administrativo, comparando automaticamente os dados exibidos na Interface com as respostas da API e gerando evidências executivas.
+---
+
+# 📊 Dashboard Admin QA Automation
+
+Suíte de automação **End-to-End** desenvolvida com **Cypress** para validação funcional de um Dashboard Administrativo, realizando comparações entre Interface e API e gerando evidências executivas automaticamente.
 
 > **Status:** ✅ Concluído
 
@@ -28,51 +34,64 @@ Meu foco é garantir entregas confiáveis através de:
 
 ## 📸 Demonstração
 
-> *(adicione aqui um GIF ou imagem do projeto)*
+<p align="center">
 
-![Dashboard Demo](docs/images/dashboard-demo.gif)
+<img src="docs/images/dashboard-demo.gif" width="900"/>
+
+</p>
 
 ---
 
-## 🎯 Principais resultados
+## ✨ Principais resultados
 
-- ✅ 70 cenários automatizados
-- ✅ Smoke Tests
-- ✅ Comparação API x Interface
-- ✅ Relatórios HTML Executivos
-- ✅ Arquitetura modular
-- ✅ Evidências automáticas
-- ✅ Cobertura dos principais fluxos do Dashboard
+| Indicador | Resultado |
+|-----------|----------:|
+| Cenários Automatizados | **70** |
+| Smoke Tests | ✅ |
+| Comparação API × Interface | ✅ |
+| Relatórios HTML Executivos | ✅ |
+| Evidências Automáticas | ✅ |
+| Arquitetura Modular | ✅ |
 
 ---
 
 ## 🛠 Tecnologias
 
-- Cypress
-- JavaScript (ES6)
-- Node.js
-- Mochawesome Reports
-- REST API Testing
-- Git
-- GitHub
+<p>
+
+<img src="https://img.shields.io/badge/Cypress-E2E-69D3A7?style=flat-square&logo=cypress"/>
+
+<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Node.js-20.x-339933?style=flat-square&logo=node.js"/>
+
+<img src="https://img.shields.io/badge/REST-API-blue?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Mochawesome-Reports-success?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git"/>
+
+</p>
 
 ---
 
-## 📂 Repositório
+## 🔗 Repositório
 
-➡️ **Dashboard Admin QA Automation**
+### ➜ Dashboard Admin QA Automation
+
+**GitHub**
 
 https://github.com/NatanGauna/dashboard-admin-cypress-automation
 
 ---
 
-# Financial Diagnostic Automation
+# 💰 Financial Diagnostic Automation
 
-> Projeto de automação desenvolvido com **Playwright** para validação de um sistema de Diagnóstico Financeiro durante uma migração de backend.
+Projeto de automação desenvolvido com **Playwright + Python** para validação de um sistema de Diagnóstico Financeiro durante uma migração de backend.
 
 **Status:** 🚧 Em publicação
 
-### Tecnologias
+### Stack
 
 - Playwright
 - Python
@@ -82,15 +101,15 @@ https://github.com/NatanGauna/dashboard-admin-cypress-automation
 
 ---
 
-# Pegue Aí
+# 🔧 Pegue Aí
 
 Marketplace para aluguel de ferramentas.
 
-Projeto pessoal Full Stack atualmente em desenvolvimento.
+Projeto Full Stack desenvolvido para estudo de arquitetura backend, autenticação, APIs REST e banco de dados.
 
 **Status:** 🚧 Em desenvolvimento
 
-Tecnologias previstas:
+Tecnologias:
 
 - Node.js
 - Express
@@ -100,7 +119,7 @@ Tecnologias previstas:
 
 ---
 
-# 💻 Tecnologias
+# 💻 Stack
 
 ### Testes
 
@@ -130,26 +149,26 @@ Tecnologias previstas:
 
 ---
 
-# 🎯 Atualmente estudando
+# 📚 Atualmente estudando
 
 - Arquitetura de Automação
 - Playwright
 - Python para QA
-- CI/CD
 - GitHub Actions
+- CI/CD
 
 ---
 
-# 📈 Objetivos
+# 🎯 Objetivo
 
-Busco evoluir continuamente na área de **Quality Assurance**, desenvolvendo soluções de automação que aumentem a confiabilidade dos produtos e reduzam o esforço manual de validação.
+Busco evoluir continuamente como **QA Engineer**, desenvolvendo soluções de automação que aumentem a qualidade das entregas, reduzam regressões e apoiem processos de desenvolvimento mais confiáveis.
 
-Tenho interesse principalmente em projetos envolvendo:
+Tenho maior interesse em projetos envolvendo:
 
-- Automação Web
-- Automação de APIs
 - Testes End-to-End
-- Testes de Regressão
+- Testes Web
+- Testes de APIs
+- Automação
 - Qualidade de Software
 
 ---
@@ -158,12 +177,18 @@ Tenho interesse principalmente em projetos envolvendo:
 
 ### LinkedIn
 
-https://linkedin.com/in/natan-gauna-070a43240
+🔗 https://linkedin.com/in/natan-gauna-070a43240
 
 ### GitHub
 
-https://github.com/NatanGauna
+🔗 https://github.com/NatanGauna
 
 ---
 
-⭐ Obrigado por visitar meu portfólio!
+<p align="center">
+
+### ⭐ Obrigado pela visita!
+
+Se algum projeto chamou sua atenção, fique à vontade para explorar os repositórios ou entrar em contato.
+
+</p>
