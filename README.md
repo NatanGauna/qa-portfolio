@@ -79,7 +79,6 @@ Suíte de automação **End-to-End** desenvolvida com **Cypress** para validaç�
 
 ### ➜ Dashboard Admin QA Automation
 
-**GitHub**
 
 [![Ver Repositório](https://img.shields.io/badge/Acessar%20Projeto-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/NatanGauna/dashboard-admin-cypress-automation)
 ---
