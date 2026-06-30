@@ -36,7 +36,7 @@ Suíte de automação **End-to-End** desenvolvida com **Cypress** para validaç�
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/NatanGauna/dashboard-admin-cypress-automation/main/docs/images/dashboard-demo.gif" width="900">
+<img src="https://raw.githubusercontent.com/NatanGauna/dashboard-admin-cypress-automation/main/docs/images/teste-admin.gif" width="900">
 </p>
 
 ---
